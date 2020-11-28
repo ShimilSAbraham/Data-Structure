@@ -163,7 +163,7 @@ void main()
     display(startB,countB);
     
     multiplication();
-    printf("\nThe sum of two polynomials: ");
+    printf("\nThe product of two polynomials: ");
     display(startC,countC);
     
 }
