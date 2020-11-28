@@ -174,7 +174,7 @@ void main()
     
     multiplication();
     finalC();
-    printf("\nThe sum of two polynomials: ");
+    printf("\nThe product of two polynomials: ");
     display(startC,countC);
     
 }
